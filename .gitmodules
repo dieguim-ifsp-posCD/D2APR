@@ -1,0 +1,4 @@
+[submodule "repositorio-curso"]
+	path = repositorio-curso
+	url = git@github.com:dieguim-ifsp-posCD/IFSP-CMP-D2APR-2021.2.git
+	branch = studying
